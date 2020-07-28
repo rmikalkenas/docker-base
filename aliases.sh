@@ -1,6 +1,6 @@
 #! /bin/bash
 
-alias ll='ls -alF --color=auto'
+alias ll='ls -alFh --color=auto'
 alias la='ls -A --color=auto'
 alias l='ls -CF --color=auto'
 
